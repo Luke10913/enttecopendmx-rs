@@ -22,7 +22,7 @@ maintenance = { status = "experimental" }
 
 # ftd2xx dependency
 [dependencies.libftd2xx]
-version = "~0.31.0"
+version = "~0.33.0"
 
 # statically link the vendor library, defaults to dynamic if not set
 # this will make things "just work" on Linux and Windows
